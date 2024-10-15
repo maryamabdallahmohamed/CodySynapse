@@ -1,5 +1,5 @@
 ## CodySynapse
-#Project Description
+#Project Description/n
 CodeSynapse is an advanced machine learning project aimed at developing a sophisticated model for comparing and analyzing code snippets across different programming languages, initially focusing on Java and Dart. The project utilizes Siamese Neural Networks (SNNs) to determine functional equivalence between code snippets, regardless of their implementation language.
 #Key Features:
 Cross-language code comparison (Java and Dart)
