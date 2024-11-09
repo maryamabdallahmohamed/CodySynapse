@@ -1,7 +1,7 @@
 ## CodySynapse
 
 ### Project Description
-**CodySynapse** is an advanced machine learning project focused on developing a sophisticated model for comparing and analyzing code snippets across different programming languages, initially concentrating on **Java** and **JavaScript**. The project employs **Siamese Neural Networks (SNNs)** to assess functional equivalence between code snippets, irrespective of their implementation language.
+**CodySynapse** is an advanced machine learning project focused on developing a sophisticated model for comparing and analyzing code snippets across different programming languages, initially concentrating on **Java** and **Python**. The project employs **Siamese Neural Networks (SNNs)** to assess functional equivalence between code snippets, irrespective of their implementation language.
 
 ### Key Features
 - **Cross-language code comparison** (Java and JavaScript)
